@@ -1,0 +1,67 @@
+h1#heading1{
+    text-align: center;
+
+}
+
+.paragraph{
+    font-family: SansSerif;
+    font-size: 18px;
+}
+
+#mydivision {
+    background-color: dodgerblue;
+    margin: 50px;
+    padding: 30px;
+}
+
+    #mydivision1{
+    color: white;
+        text-align: center;
+
+
+}
+
+#test{
+    display: flex;
+    background-color: lightgrey;
+    margin: 50px;
+    padding: 30px;
+    color:  black;
+}
+
+#test img{
+    margin-right: 30px;
+    border-radius: 400px;
+}
+
+#main{
+    display: flex;
+
+}
+
+#advertisement{
+    background-color: red;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+}
+#accounting{
+    background-color: #0e45c6;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+
+}
+
+#payment {
+    background-color: #03b303;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+
+}
+#advertisement.hover{
+    background-color: white;
+    opacity: inherit;
+}
+
